@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "mapas de", "..\mapas de\", "{ED788D17-9564-4B10-8760-A5AD8C3812D3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51919"
+		Debug.AspNetCompiler.PhysicalPath = "..\mapas de\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51919\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51919"
+		Release.AspNetCompiler.PhysicalPath = "..\mapas de\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51919\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51919"
+		SlnRelativePath = "..\mapas de\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED788D17-9564-4B10-8760-A5AD8C3812D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED788D17-9564-4B10-8760-A5AD8C3812D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AACBB4F-D796-44A2-AF2B-063681EE0E17}
+	EndGlobalSection
+EndGlobal
